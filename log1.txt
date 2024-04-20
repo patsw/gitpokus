@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 tohle je prvni developer1 - znebba 4 - main dev2 
+=======
+tohle je prvni developer1 - znebba 5 dev2
+>>>>>>> Stashed changes

@@ -12,8 +12,7 @@
 20:45:28 - MAIN: CLIENT CONNECT attempt
 21:28:32 - MAIN: CLIENT CONNECT attempt
 16:54:40 - MAIN: CLIENT CONNECT attempt
-16:54:41 - Event Error: WRONG REQUEST ID detected: Request -1, Code: 2104 - Market data farm connection is OK:usfuture.il
-16:54:41 - Event Error: WRONG REQUEST ID detected: Request -1, Code: 2104 - Market data farm connection is OK:hfarm
+16:54:41 - Event Error: WRONG REQUEST ID detected: Request -1, Code: 2104 - Marketon is OK:hfarm
 16:54:41 - Event Error: WRONG REQUEST ID detected: Request -1, Code: 2104 - Market data farm connection is OK:usfarm.nj
 16:54:41 - Event Error: WRONG REQUEST ID detected: Request -1, Code: 2104 - Market data farm connection is OK:jfarm
 16:54:41 - Event Error: WRONG REQUEST ID detected: Request -1, Code: 2104 - Market data farm connection is OK:usfuture
